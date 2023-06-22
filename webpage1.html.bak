@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>webpage_1</title>
+    <script src="https://kit.fontawesome.com/c5935be8dc.js" crossorigin="anonymous"></script>
+    <style>
+     .font{ width: 750px; margin: 50px 75px; font-size: 45px; color: burlywood; font-weight: 12px; font-style: bold;}
+     .icon{width:70px; padding: 15px 450px; right:34px; cursor:pointer; position:absolute; margin: 50px 9px; }
+      .icon i{width:70px}
+	 .display{display: flex;  background-color: blue;  }
+    </style>
+</head>
+<body>
+    <header>
+
+    <nav class="display">
+        <font style="text-align:center"><p class="font">
+            BREVERY
+        </p></font>
+        <p class="icon">
+            <i class="fas fa-bars"></i>
+        </p>
+    </nav>
+</header>   
+</body>
+</html>
